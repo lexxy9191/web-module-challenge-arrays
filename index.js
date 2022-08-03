@@ -64,14 +64,14 @@ For Example: is31Flavors(originalFlavors) will return true if your code is worki
 */
 
 
-function is31Flavors(originalFlavors){
-  if(is31Flavors === .length(31);{
-  return "TRUE";
-}else (){
-  return "false";
+function is31Flavors(array){
+  if(array.length === 31){
+  return true;
+}else{
+  return false;
 }
 }
- console.log()
+ console.log(is31Flavors(originalFlavors));
 
 
 
